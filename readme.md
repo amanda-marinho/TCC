@@ -91,3 +91,34 @@
 [![PDF](https://img.shields.io/badge/PDF-lightgrey)](https://dl.acm.org/doi/pdf/10.1145/1985793.1985871)
 
 2011 - ACM
+
+### A survey of software testing practices in Canada
+[![Abstract](https://img.shields.io/badge/Abstract-orange)](https://www.sciencedirect.com/science/article/pii/S0164121212003561)
+[![PDF](https://img.shields.io/badge/PDF-lightgrey)](https://reader.elsevier.com/reader/sd/pii/S0164121212003561?token=38C3E75DFE53A5F8344BB70565C5302D0E29EDAE049BE5EAC6ABDCD4DD6FA386165FE1D296B67D33E14E59A62841B851)
+
+2013 - Elsevier
+
+### An orchestrated survey of methodologies for automated software test case generation
+[![Abstract](https://img.shields.io/badge/Abstract-orange)](https://www.sciencedirect.com/science/article/pii/S0164121213000563)
+[![PDF](https://img.shields.io/badge/PDF-lightgrey)](https://reader.elsevier.com/reader/sd/pii/S0164121213000563?token=D019E7BC08F6FC3EEB04D30A0936D0E614155A023F4BB9DA5548A13A38C8FC7195767EC93BB28683F62A30DF2BB22CB8)
+
+2013 - Elsevier
+
+### Choosing the Right Test Automation Tool: a Grey Literature Review of Practitioner Sources
+[![Abstract](https://img.shields.io/badge/Abstract-orange)](https://dl.acm.org/doi/abs/10.1145/3084226.3084252)
+[![PDF](https://img.shields.io/badge/PDF-lightgrey)](https://dl.acm.org/doi/pdf/10.1145/3084226.3084252)
+
+2017 - ACM
+
+### When and what to automate in software testing? A multi-vocal literature review
+[![Abstract](https://img.shields.io/badge/Abstract-orange)](https://www.sciencedirect.com/science/article/pii/S0950584916300702)
+[![PDF](https://img.shields.io/badge/PDF-lightgrey)](https://reader.elsevier.com/reader/sd/pii/S0950584916300702?token=E92AA527EFDC5AEB6EBEB84F01BDF50282B8F4830C42D8198AF94A3DD870098A7B441DD4B3A79B025C46CEF561704928)
+
+2016 - Elsevier
+
+
+---
+
+### Template
+[![Abstract](https://img.shields.io/badge/Abstract-orange)]()
+[![PDF](https://img.shields.io/badge/PDF-lightgrey)]()
